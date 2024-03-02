@@ -1,0 +1,9 @@
+mongodb-express:
+  host: mongo.10.0.0.10.nip.io
+mongodb:
+  architecture: standalone
+  useStatefulSet: true
+  persistence:
+      storageClass: "nfs-client"
+  auth:
+      rootPassword: aGVsbG9tb25nbwo=
