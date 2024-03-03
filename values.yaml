@@ -25,7 +25,7 @@ global:
 ##
 mongodbExpress:
   enabled: true
-  host:
+  host: ""
   image:
       registry: docker.io
       repository: mongo-express

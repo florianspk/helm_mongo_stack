@@ -1,4 +1,4 @@
-mongodb-express:
+mongodbExpress:
   host: mongo.10.0.0.10.nip.io
 mongodb:
   architecture: standalone

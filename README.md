@@ -36,4 +36,4 @@ Contributions are welcome! If you'd like to improve this chart, please submit a 
 
 ## License
 
-This chart is distributed under the GNU General Public License Version 3.
+This chart is distributed under the GNU General Public License Version 3
